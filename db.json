@@ -1,43 +1,11 @@
 {
-  "users": [
+  "posts": [
     {
       "id": 1,
-      "name": "Administrator",
-      "roles": [
-        "admin",
-        "staff",
-        "user"
-      ],
-      "username": "admin",
-      "password": "admin"
-    },
-    {
-      "id": 2,
-      "name": "Staff",
-      "roles": [
-        "staff",
-        "user"
-      ],
-      "username": "staff",
-      "password": "staff"
-    },
-    {
-      "id": 3,
-      "name": "User",
-      "roles": [
-        "user"
-      ],
-      "username": "user",
-      "password": "user"
-    },
-    {
-      "name": "John",
-      "roles": [
-        "user"
-      ],
-      "username": "john@example.com",
-      "password": "john1234",
-      "id": 4
+      "title": "hello"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
